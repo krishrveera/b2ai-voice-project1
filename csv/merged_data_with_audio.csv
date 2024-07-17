@@ -1,4 +1,4 @@
-Record ID,Task Name,Adherence,Quality,Audio
+pid,task,adherence,quality,file
 1f9475bb-f13b-4f68-969b-28f20455b3e7,Free-speech-2,,,/Users/rachelwang/Downloads/bids_with_sensitive_recordings/sub-1f9475bb-f13b-4f68-969b-28f20455b3e7/ses-CB8A74EE-0C8C-4B15-B322-D93A79ADB40A/audio/sub-1f9475bb-f13b-4f68-969b-28f20455b3e7_ses-CB8A74EE-0C8C-4B15-B322-D93A79ADB40A_Free-speech_rec-Free-speech-2.wav
 1f9475bb-f13b-4f68-969b-28f20455b3e7,Word-color-Stroop,,,/Users/rachelwang/Downloads/bids_with_sensitive_recordings/sub-1f9475bb-f13b-4f68-969b-28f20455b3e7/ses-CB8A74EE-0C8C-4B15-B322-D93A79ADB40A/audio/sub-1f9475bb-f13b-4f68-969b-28f20455b3e7_ses-CB8A74EE-0C8C-4B15-B322-D93A79ADB40A_Word-color-Stroop_rec-Word-color-Stroop.wav
 1f9475bb-f13b-4f68-969b-28f20455b3e7,Loudness,5.0,4.0,/Users/rachelwang/Downloads/bids_with_sensitive_recordings/sub-1f9475bb-f13b-4f68-969b-28f20455b3e7/ses-CB8A74EE-0C8C-4B15-B322-D93A79ADB40A/audio/sub-1f9475bb-f13b-4f68-969b-28f20455b3e7_ses-CB8A74EE-0C8C-4B15-B322-D93A79ADB40A_Loudness_rec-Loudness.wav
